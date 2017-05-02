@@ -200,3 +200,4 @@ object HBaseCommonUtilsAPI {
     rdd.saveAsNewAPIHadoopDataset(job.getConfiguration)
   }
 }
+
